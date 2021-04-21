@@ -5,7 +5,7 @@ A simple game engine for didatic purpose.
 Use: python femoplay.py stories/test.story
 
 """
-
+## New comment
 from collections import namedtuple
 import sys
 
