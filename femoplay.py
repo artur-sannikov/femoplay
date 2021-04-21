@@ -3,7 +3,6 @@ FemoPlay
 A simple game engine for didatic purpose.
 
 Use: python femoplay.py stories/test.story
-
 """
 
 from collections import namedtuple
