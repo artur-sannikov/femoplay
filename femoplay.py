@@ -4,6 +4,8 @@ A simple game engine for didatic purpose.
 
 Use: python femoplay.py stories/test.story
 
+Bugfix:
+    - risolto un problema
 """
 
 from collections import namedtuple
